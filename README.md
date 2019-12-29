@@ -14,11 +14,11 @@
 <h2><a href="http://ibc.computer.upc.edu.cn/" target="_blank">ibc</a></h2>
 
 <h2><a href="http://www.gstatic.com/generate_204" target="_blank">上网认证</a></h2>
-<p><a href="http://www.baidu.com"><img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4c67EsmdddL1V81mH8fYILM3GtBHLEjLvIC21ebLzCSoHC35zIzP8HX.auX39*XZ4afbqMeC8uLvoX5qMQiVDbc!/b&bo=ggB*AAAAAAADB98!&rf=viewer_4" ></a>
+<p><a href="http://www.baidu.com"><img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4c67EsmdddL1V81mH8fYILM3GtBHLEjLvIC21ebLzCSoHC35zIzP8HX.auX39*XZ4afbqMeC8uLvoX5qMQiVDbc!/b&bo=ggB*AAAAAAADB98!&rf=viewer_4"  target="_blank"></a>
   <!--<map name="Map">
     <area shape="rect" coords="1,7,130,126" href="#http://www.baidu.com" target="_blank">
   </map>-->
-  <a href="http://www.zhihuishu.com"><img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4dvwkWd8qqHePjaxFRuYcwVpoZVzUAjc5FE9tjw1CS.FlGy4zk99YGtlGnCD.iEcfvCyy2RWGl1tG2FvVm*ASpY!/b&bo=kQCQAAAAAAADFzM!&rf=viewer_4" width="136" height="124" ></a>
+  <a href="http://www.zhihuishu.com"><img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4dvwkWd8qqHePjaxFRuYcwVpoZVzUAjc5FE9tjw1CS.FlGy4zk99YGtlGnCD.iEcfvCyy2RWGl1tG2FvVm*ASpY!/b&bo=kQCQAAAAAAADFzM!&rf=viewer_4" width="136" height="124"  target="_blank"></a>
   <!--<map name="Map2">
     <area shape="rect" coords="1,-3,67,63" href="#">
     <area shape="rect" coords="368,314,959,826" href="#https://www.zhihuishu.com/" target="_blank">
