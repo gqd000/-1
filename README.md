@@ -14,13 +14,14 @@
 <h2><a href="http://ibc.computer.upc.edu.cn/" target="_blank">ibc</a></h2>
 
 <h2><a href="http://www.gstatic.com/generate_204" target="_blank">上网认证</a></h2>
-<p><img src="https://github.com/BSKingdom/-1/blob/master/%E7%99%BE%E5%BA%A6.png" usemap="#Map">
+<p><img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4c67EsmdddL1V81mH8fYILM3GtBHLEjLvIC21ebLzCSoHC35zIzP8HX.auX39*XZ4afbqMeC8uLvoX5qMQiVDbc!/b&bo=ggB*AAAAAAADB98!&rf=viewer_4" usemap="#Map">
   <map name="Map">
     <area shape="rect" coords="1,7,130,126" href="#http://www.baidu.com" target="_blank">
   </map>
-  <img src="https://github.com/BSKingdom/-1/blob/master/%E6%99%BA%E6%85%A7%E6%A0%91.png" usemap="#Map2">
+  <img src="http://m.qpic.cn/psc?/V12UAMRI3v0HBr/F1H7YF3BXM1Q*sygiHZL4dvwkWd8qqHePjaxFRuYcwVpoZVzUAjc5FE9tjw1CS.FlGy4zk99YGtlGnCD.iEcfvCyy2RWGl1tG2FvVm*ASpY!/b&bo=kQCQAAAAAAADFzM!&rf=viewer_4" width="136" height="124" usemap="#Map2">
   <map name="Map2">
-    <area shape="rect" coords="3,6,142,138" href="#https://www.zhihuishu.com/" target="_blank">
+    <area shape="rect" coords="8,8,127,116" href="#">
+    <area shape="rect" coords="368,314,959,826" href="#https://www.zhihuishu.com/" target="_blank">
   </map>
 <p>
 <h2><a href="google.com.hk" target="_blank">谷歌</a></h2>
@@ -28,7 +29,6 @@
 
 </body>
 </html>
-
 
 
 
